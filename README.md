@@ -10,11 +10,10 @@
 - 📫 How to reach me : https://www.linkedin.com/in/shalini-verma-b69530141/
 
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt=".NET" width="60" height="60"/> 
-      <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt=".NET" width="60" height="60"/> 
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="Angular" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="Typescript" width="50" height="50"/> 
+      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="azure" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="VS Code" width="50" height="50"/> 
 </p>
