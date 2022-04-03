@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shalini064
+- 👋 Hi, I’m @Shalini064 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Data Structure and algorithm 
 - 💞️ I’m looking to collaborate on developing more project
