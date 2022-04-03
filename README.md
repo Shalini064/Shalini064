@@ -5,6 +5,8 @@
 - 👋 Hi, I’m @Shalini064 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 👀 I’m interested in Programming
 - ❤  I'm a MERN stack developer.
+- ⚡ I believe in adding value through my code.
+- ✔ Be the change you want to see in the world.
 - 🌱 I’m currently learning Data Structure and Algorithms
 - 💞️ I’m looking to collaborate on developing more project
 - 📫 How to reach me : https://www.linkedin.com/in/shalini-verma-b69530141/
